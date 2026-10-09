@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 results/
+# LaTeX temporary files
+*.aux
+*.blg
+*.log
